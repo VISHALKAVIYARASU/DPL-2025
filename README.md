@@ -55,3 +55,6 @@ This repository contains data science notebooks and scripts for analyzing global
 
 - Plots and tables summarizing key findings.
 - PNG images of risk scores and trade network graphs are saved to the project folder.
+
+## Link for Video Demonstration
+https://drive.google.com/drive/u/1/folders/1uJcaNFCSKvsibfhHJVw_HREyYrjnf85p
